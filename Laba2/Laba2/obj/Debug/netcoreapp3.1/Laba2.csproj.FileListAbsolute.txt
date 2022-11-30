@@ -1,0 +1,14 @@
+C:\Users\walrider\source\repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.exe
+C:\Users\walrider\source\repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.deps.json
+C:\Users\walrider\source\repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.json
+C:\Users\walrider\source\repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.dev.json
+C:\Users\walrider\source\repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.dll
+C:\Users\walrider\source\repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.pdb
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.AssemblyReference.cache
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfoInputs.cache
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfo.cs
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.dll
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.pdb
+C:\Users\walrider\source\repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.genruntimeconfig.cache

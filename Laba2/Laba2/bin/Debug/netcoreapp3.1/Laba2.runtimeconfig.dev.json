@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\walrider\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\walrider\\.nuget\\packages"
+    ]
+  }
+}
